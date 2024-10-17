@@ -35,7 +35,10 @@ const SomeModule = () => {
  //   someFnc();
 
     return (
-        <><h1>H1 Tag has changed the second time</h1></>
+        <>
+          <h1>H1 Tag has changed the second time</h1>
+          <h2>let's add h2 tag</h2>
+        </>
     )
    
 }
