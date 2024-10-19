@@ -39,6 +39,7 @@ const SomeModule = () => {
           <h1>H1 Tag has changed with ag83 and look at new one</h1>
           <h2>added h2 tag</h2>
           <h1>a new tag</h1>
+          <h2>from other side</h2>
         </>
     )
    
