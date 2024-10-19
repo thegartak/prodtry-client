@@ -41,6 +41,7 @@ const SomeModule = () => {
           <h1>a new tag</h1>
           <h1>with changed token</h1>
           <h1>immed 1</h1>
+          <h1>immed 2</h1>
         </>
     )
    
