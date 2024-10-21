@@ -95,6 +95,7 @@ const PersonReducer = () => {
             return (
                 <li key={key} style={{margin: '10px 0' }}>{data.some}
                     <button onClick={() => listDispatch({type: 'remove', payload: {id: data.id, inputText: ''}})}>Remove ({data.id})</button>
+                    <h5>this is the first file line for fetch</h5>
                 </li> 
             )
         })}
