@@ -42,6 +42,7 @@ const SomeModule = () => {
           <h2>from other side</h2>
           <h5>this from 83 the ga</h5>
           <h5>this is the second file line for fetch</h5>
+          <h5>new one</h5>
         </>
     )
    
